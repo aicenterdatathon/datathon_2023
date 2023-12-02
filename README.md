@@ -1,7 +1,8 @@
 #aicdatathon2023    
 
-
 # Datatón de Análisis de Recursos Humanos (HR Analytics)
+
+##Equipo2: Kevin contreras, Jose Carlos, Luis Carlos, Sebastian
 
 ## Actividad y Dataset(s) 
 **Sector**: Industria, Recursos Humanos
