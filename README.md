@@ -1,4 +1,4 @@
-# datathon_2023
+#aicdatathon2023
 Datathon 2023
 
 # Datatón de Análisis de Recursos Humanos (HR Analytics)
