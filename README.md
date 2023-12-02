@@ -1,5 +1,10 @@
 #aicdatathon2023    
 
+## Miembros del Equipo
+Denisse Jimenez Guzman
+Cristian Ulises de La Fuente Espino
+Aida Irma Parada Chavarria
+
 
 # Datatón de Análisis de Recursos Humanos (HR Analytics)
 
