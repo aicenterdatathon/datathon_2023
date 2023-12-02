@@ -15,7 +15,7 @@ Nuestro objetivo es descubrir insights significativos y desarrollar modelos pred
 ## Datos
 Se proporcionará a los participantes un conjunto de datos* detallado relacionado con el área de recursos humanos, que incluye, pero no se limita a, información sobre antigüedad, posición, banda salarial, motivos de renuncia, datos demográficos, entre otros.
 
-*en un repositorio en un folder denominado “data”
+*en un repositorio asignado y en un folder denominado “data”
 
 ## Desafíos
 1. **Modelo Predictivo de Retención de Empleados**: Identificar factores clave que influyen en la retención y desarrollar un modelo para predecir la probabilidad de renuncia de un empleado.
