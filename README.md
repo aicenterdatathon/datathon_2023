@@ -28,6 +28,7 @@ Se proporcionará a los participantes un conjunto de datos* detallado relacionad
 8. **Entre otros**
 
 ## Formato
+- **Hibrido**
 - **Fase de Preparación**: Cursos y sesiones de mentoría para familiarizarse con las herramientas y técnicas de análisis.
 - **Fase de Hackathon**: Horas de análisis intensivo y desarrollo de soluciones.
 - **Presentación y Evaluación**: Presentación de soluciones ante un jurado de expertos en análisis de datos.
