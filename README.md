@@ -1,10 +1,9 @@
 #aicdatathon2023    
 
-Datathon 2023
 
 # Datatón de Análisis de Recursos Humanos (HR Analytics)
 
-## Datasets y Actividad
+## Actividad y Dataset(s) 
 **Sector**: Industria, Recursos Humanos
 
 ## Introducción
